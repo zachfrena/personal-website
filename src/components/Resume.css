@@ -1,0 +1,87 @@
+  
+  .skill-set li:hover {
+      background:#3498db;
+  }
+
+  .interest-set li:hover {
+      background:#3498db;
+  }
+  
+  h1 {
+      color:rgb(0, 0, 0);
+  }
+
+  .inner {
+      display:flex;
+      width: 100%;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      /* background-image: linear-gradient(303deg, #000080 0%, #562b7b 16%, #7f5274 33%, #a37b6b 50%, #c3a65d 66%, #e1d246 83%, #ffff00 100%); */
+      background: url('/public/images/stone.jpg') center center/cover no-repeat;
+    }
+  
+.inner h1 {
+      justify-content: center;
+      text-align: center;
+      font-size:36px;
+  }
+  
+  
+  .inner section {
+      margin:50px auto;
+  }
+
+  .skill-set{
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: start;
+      padding-left: 20px;
+      margin: 10px 0 10px 0;
+      border: solid 1px;
+      border-radius: 10px;
+      background-color: rgba(255, 255, 255, 0.6);
+  }
+
+  .interest-set{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: start;
+    padding-left: 20px;
+    margin: 10px 0 10px 0;
+    border: solid 1px;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.6);
+}
+
+  .skill-category{
+      padding: 10px;
+      font-size: 20px;
+      
+  }
+
+
+  .skill-set li {
+      background:rgba(0,0,0,.75);
+      border-radius:5px;
+      color:#FFF;
+      display:inline-block;
+      list-style:none;
+      margin:15px 5px 15px 5px;
+      padding:10px;
+      text-align:justify;
+  }
+
+  .interest-set li {
+      background:rgba(0,0,0,.75);
+      border-radius:5px;
+      color:#FFF;
+      display:inline-block;
+      list-style:none;
+      margin:15px 5px 15px 5px;
+      padding:10px;
+      text-align:justify;
+  }
+  
