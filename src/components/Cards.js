@@ -10,14 +10,14 @@ function Cards () {
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
-              sr='src/images/garmin-project.JPG'
+              sr='/blob/main/src/images/garmin-project.JPG'
               text='Step Count Classification'
               label={['Python','Machine Learning','Scikit-Learn']}
               description="Investigating how machine learning algorithms can predict health and fitness outcomes when provided daily activity data."
               path='https://github.com/zachfrena/StepCountClassifier'
             />
             <CardItem
-              sr='/src/images/vet-project.JPG'
+              sr='/blob/main/src/images/vet-project.JPG'
               text='Veterinary System Application'
               label={['Java','Full-Stack','React']}
               description = 'Full-stack application to manage, update, add, and delete animals and their associated health conditions. Created for the school of Veterinary Medicine at the University of Calgary.'
@@ -26,21 +26,21 @@ function Cards () {
           </ul>
           <ul className='cards__items'>
             <CardItem
-              sr='/src/images/movie-theatre.JPG'
+              sr='/blob/main/src/images/movie-theatre.JPG'
               text='Movie Theatre Booking App' 
               label={['Java','Swing','MySQL']}
               description='Application that contains full functionality to book a movie ticket at a theatre.'
               path='https://github.com/zachfrena/MovieTheatreTicketRegistrationApp'
             />
             <CardItem
-              sr='/src/images/personal-website.JPG'
+              sr='/blob/main/src/images/personal-website.JPG'
               text='Personal Website (this one!)'
               description='Portfolio website built using HTML5 and CSS3 in a React framework to add interactivity and state management.'
               label={['React','HTML','CSS']}
               path='https://github.com/zachfrena/personal-website'
             />
             <CardItem
-              sr='/src/images/img-8.jpg'
+              sr='/blob/main/src/images/img-8.jpg'
               text='More Projects (Coming Soon)!'
               label={[]}
               path='https://github.com/zachfrena'
