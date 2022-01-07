@@ -17,7 +17,7 @@
       flex-direction: column;
       align-items: center;
       justify-content: center;
-      background: url('public/images/stone.jpg') center center/cover no-repeat;
+      background: url('/public/images/stone.jpg') center center/cover no-repeat;
     }
   
 .inner h1 {
