@@ -75,9 +75,7 @@ background: linear-gradient(180deg, #ffffff 0%, #e9edf1 16%, #d4dce3 33%, #bfcbd
     font-size: 1.2em;
     margin-bottom: 1.2em;
   }
-  .timeline-event-copy strong {
-
-  }
+  
   .timeline-event-copy p:not(.timeline-event-thumbnail) {
     padding-bottom: 1.2em;
     padding-left: 10px;
