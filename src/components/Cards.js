@@ -10,7 +10,7 @@ function Cards () {
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
-              src='/src/images/garmin-project.JPG'
+              src='src/images/garmin-project.JPG'
               text='Step Count Classification'
               label={['Python','Machine Learning','Scikit-Learn']}
               description="Investigating how machine learning algorithms can predict health and fitness outcomes when provided daily activity data."
