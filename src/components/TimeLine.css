@@ -1,12 +1,30 @@
   .background{
-background: linear-gradient(180deg, #ffffff 0%, #e9edf1 16%, #d4dce3 33%, #bfcbd5 50%, #aabac7 66%, #96a9b9 83%, #8199ac 100%)
+background: linear-gradient(180deg, #ffffff 0%, #f6fbff 16%, #eef8ff 33%, #e5f4ff 50%, #dcf1ff 66%, #d3edff 83%, #caeaff 100%)
 }
 
   .timeline-section{
-
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 10px;
+    /* background: rgb(202, 234, 255); */
     position: relative;
-    padding-top: 40px;
+    z-index: 1;
   }
+
+  .timeline-section::after{
+    background: rgb(202, 234, 255);
+    top: 100%;
+    content: '';
+    display: block;
+    height: 10%;
+    left: 0;
+    position: absolute;
+    right: 0;
+    transform: skewY(176deg);
+    transform-origin: 0 0;
+    z-index: -1;
+}
 
   .time-line-header{
     margin-top: 100px;

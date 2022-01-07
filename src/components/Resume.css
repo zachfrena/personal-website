@@ -16,8 +16,10 @@
       width: 100%;
       flex-direction: column;
       align-items: center;
+      padding-top: 100px;
       justify-content: center;
-      background: url('/public/images/stone.jpg') center center/cover no-repeat;
+      /* background: url('/public/images/stone.jpg') center center/cover no-repeat; */
+      background: rgb(237, 248, 255);
     }
   
 .inner h1 {

@@ -30,7 +30,7 @@ function Resume () {
             </div>
           </ul>
           <ul class='skill-set'>
-            <div className='skill-category'>Data Science:</div>
+            <div className='skill-category'>Data Science/ Data Engineering:</div>
             <div className='skills'>
               <li>Scikit-Learn</li>
               <li>PySpark</li>
