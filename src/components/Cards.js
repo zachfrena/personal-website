@@ -10,7 +10,7 @@ function Cards () {
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
-              sr='/src/images/Barrier.jpg'
+              sr='/images/Barrier.jpg'
               text='Step Count Classification'
               label={['Python','Machine Learning','Scikit-Learn']}
               description="Investigating how machine learning algorithms can predict health and fitness outcomes when provided daily activity data."

@@ -20,7 +20,7 @@ function CardItem (props) {
           </div>
           <figure className='cards__item__tag' data-category={props.label}>
             <img
-              src={props.sr}
+              src={process.env.PUBLIC_URL + props.sr}
               alt='Travel Image'
               className='cards__item__img'
             />
