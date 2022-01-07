@@ -1,6 +1,7 @@
 import React from 'react'
 import CardItem from './CardItem'
 import './Cards.css'
+import vet_project from '/images/vet-project.JPG';
 
 function Cards () {
   return (
@@ -17,7 +18,7 @@ function Cards () {
               path='https://github.com/zachfrena/StepCountClassifier'
             />
             <CardItem
-              src='/images/vet-project.JPG'
+              src={vet_project}
               text='Veterinary System Application'
               label={['Java','Full-Stack','React']}
               description = 'Full-stack application to manage, update, add, and delete animals and their associated health conditions. Created for the school of Veterinary Medicine at the University of Calgary.'
