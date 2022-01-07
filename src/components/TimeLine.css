@@ -1,22 +1,9 @@
-/* 
-body {
-    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    font-size: 1em;
-    font-weight: 300;
-    line-height: 1.5;
-    letter-spacing: 0.05em;
-  } */ */
-
-* {
-    /* box-sizing: border-box; */
-  }
-
   .background{
 background: linear-gradient(180deg, #ffffff 0%, #e9edf1 16%, #d4dce3 33%, #bfcbd5 50%, #aabac7 66%, #96a9b9 83%, #8199ac 100%)
 }
 
   .timeline-section{
-    /* background-image: linear-gradient(white, #5a7eca); */
+
     position: relative;
     padding-top: 40px;
   }
@@ -31,7 +18,7 @@ background: linear-gradient(180deg, #ffffff 0%, #e9edf1 16%, #d4dce3 33%, #bfcbd
   }
 
   .timeline {
-    /* margin: 4em auto; */
+
     margin-left: 35em;
     margin-top: 2em;
     position: relative;
@@ -89,7 +76,7 @@ background: linear-gradient(180deg, #ffffff 0%, #e9edf1 16%, #d4dce3 33%, #bfcbd
     margin-bottom: 1.2em;
   }
   .timeline-event-copy strong {
-    /* font-weight: 700; */
+
   }
   .timeline-event-copy p:not(.timeline-event-thumbnail) {
     padding-bottom: 1.2em;
