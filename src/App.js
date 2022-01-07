@@ -12,7 +12,6 @@ import NavBar from './components/NavBar'
 function App () {
   return (
     <BrowserRouter basename={process.env.PUBLIC_URL}>
-    <Router>
       {/* <NavBar /> */}
       <Routes>
         <Route exact path='/' element={<Home />}/>
@@ -20,7 +19,6 @@ function App () {
         <Route exact path='/sign-up' element={<SignUp />}/>
         <Route exact path='/products' element={<Products />}/>
       </Routes>
-    </Router>
     </BrowserRouter>
   )
 }
