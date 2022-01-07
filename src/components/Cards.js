@@ -1,7 +1,6 @@
 import React from 'react'
 import CardItem from './CardItem'
 import './Cards.css'
-import vet_project from '/images/vet-project.JPG';
 
 function Cards () {
   return (
@@ -18,7 +17,7 @@ function Cards () {
               path='https://github.com/zachfrena/StepCountClassifier'
             />
             <CardItem
-              src={vet_project}
+              src='/images/vet-project.JPG'
               text='Veterinary System Application'
               label={['Java','Full-Stack','React']}
               description = 'Full-stack application to manage, update, add, and delete animals and their associated health conditions. Created for the school of Veterinary Medicine at the University of Calgary.'
@@ -38,7 +37,7 @@ function Cards () {
               text='Personal Website (this one!)'
               description='Portfolio website built using HTML5 and CSS3 in a React framework to add interactivity and state management.'
               label={['React','HTML','CSS']}
-              path='/products'
+              path='https://github.com/zachfrena/personal-website'
             />
             <CardItem
               src='images/img-8.jpg'
