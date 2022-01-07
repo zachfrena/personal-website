@@ -4,12 +4,14 @@ import Home from './components/pages/Home'
 import Services from './components/pages/Services'
 import SignUp from './components/pages/SignUp'
 import Products from './components/pages/Products'
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
+import { BrowserRouter as Router, Routes, Route, BrowserRouter } from 'react-router-dom'
 import NavBar from './components/NavBar'
+
 
 
 function App () {
   return (
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
     <Router>
       {/* <NavBar /> */}
       <Routes>
@@ -19,6 +21,7 @@ function App () {
         <Route exact path='/products' element={<Products />}/>
       </Routes>
     </Router>
+    </BrowserRouter>
   )
 }
 
