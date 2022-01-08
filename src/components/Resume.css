@@ -1,10 +1,10 @@
   
   .skill-set li:hover {
-      background:#3498db;
+      background:#6699CC;
   }
 
   .interest-set li:hover {
-      background:#3498db;
+      background:#6699CC;
   }
   
   h1 {
@@ -19,7 +19,7 @@
       padding-top: 100px;
       justify-content: center;
       /* background: url('/public/images/stone.jpg') center center/cover no-repeat; */
-      background: rgb(237, 248, 255);
+      background: #dfdecd;
     }
   
 .inner h1 {
@@ -65,9 +65,9 @@
 
 
   .skill-set li {
-      background:rgba(0,0,0,.75);
+      background:#dcada7;
       border-radius:5px;
-      color:#FFF;
+      color: black;
       display:inline-block;
       list-style:none;
       margin:15px 5px 15px 5px;
@@ -76,9 +76,9 @@
   }
 
   .interest-set li {
-      background:rgba(0,0,0,.75);
+      background:#dcada7;
       border-radius:5px;
-      color:#FFF;
+      color:black;
       display:inline-block;
       list-style:none;
       margin:15px 5px 15px 5px;
@@ -86,3 +86,16 @@
       text-align:justify;
   }
   
+  @media screen and (max-width: 600px) {
+    .skill-set{
+        flex-direction: column;
+        margin: 5%;
+    }
+
+    .interest-set{
+        /* flex-direction: column; */
+        margin: 5%;
+        display: block;
+    }
+    
+  }

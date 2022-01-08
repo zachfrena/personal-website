@@ -14,6 +14,9 @@ function TimeLine () {
               <h3>Student: Masters of Software Engineering</h3>
               <h4>University of Calgary</h4>
               <ul className='list'>
+              <li>
+                  Current GPA: 4.0/4.0
+                </li>
                 <li>
                   Coursework: Design and Architecture, Machine Learning,
                   Advanced System Analysis, Databases, Large Scale Data

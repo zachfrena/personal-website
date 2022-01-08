@@ -31,14 +31,20 @@ function About () {
         </a>
       </div>
       <h1>About Me</h1>
-      <p>
-        My name is Zach Frena and I am currently a graduate student pursuing a
-        masters degree in software engineering. I have an undergraduate degree
-        in mechanical engineering, and I love designing, testing, and building
-        things (physical, digital, and combined!). I am always striving to further develop my skillset through extensive involvement on club teams, non-profit positions,
-        and technical hobbies and extra-curriculars. I am passionate about using technology to change the world for 
-        the better (energy/environment, healthcare, education, etc.), and I would love to work at an innovative, impactful company whose core mission is helping people.
-      </p>
+      <div>
+        <p>
+          <span class='important'>My name is Zach Frena</span> and I am
+          currently a graduate student pursuing a masters degree in software
+          engineering. I have an undergraduate degree in mechanical engineering,
+          and I love designing, testing, and building things (physical, digital,
+          and combined!). I am always striving to further develop my skillset
+          through extensive involvement on club teams, non-profit positions, and
+          technical hobbies and extra-curriculars. <span class='important'>I am passionate about using
+          technology to change the world for the better </span>(energy/environment,
+          healthcare, education, etc.), and I would love to work at an
+          innovative, impactful company whose core mission is helping people.
+        </p>
+      </div>
     </div>
   )
 }
