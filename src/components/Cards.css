@@ -6,7 +6,9 @@
   .cards > h1 {
     text-align: center;
     color:#fff;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    /* font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; */
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 36px;
   }
   
   .cards__container {

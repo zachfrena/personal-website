@@ -39,11 +39,21 @@ function About () {
           and I love designing, testing, and building things (physical, digital,
           and combined!). I am always striving to further develop my skillset
           through extensive involvement on club teams, non-profit positions, and
-          technical hobbies and extra-curriculars. <span class='important'>I am passionate about using
-          technology to change the world for the better </span>(energy/environment,
-          healthcare, education, etc.), and I would love to work at an
-          innovative, impactful company whose core mission is helping people.
+          technical hobbies and extra-curriculars.{' '}
+          <span class='important'>
+            I am passionate about using technology to change the world for the
+            better{' '}
+          </span>
+          (energy/environment, healthcare, education, etc.), and I would love to
+          work at an innovative, impactful company whose core mission is helping
+          people.
         </p>
+      </div>
+      <div className='where-ive-been-button'>
+        <i class='fas fa-map-marker-alt'>&nbsp;Currently based in Calgary, Alberta.&nbsp;&nbsp;</i>
+        <a href='https://zachfrena.github.io/personal-website/where-ive-been'>
+          [Click here to see where I've been before]
+        </a>
       </div>
     </div>
   )

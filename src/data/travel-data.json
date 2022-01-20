@@ -1,0 +1,202 @@
+[
+  {
+    "description":"Pukatawagan",
+    "image":"/images/Sunset_boat.jpg",
+    "coordinates": [54.8725444,-100.9577266]
+  },
+  {
+    "description":"Vancouver",
+    "image":"/images/vancouver-cycle.jpg",
+    "coordinates": [49.2741861,-123.1518592]
+  },
+  {
+    "description":"Tunnel Bluffs",
+    "image":"/images/tunnel-bluffs.jpg",
+    "coordinates": [49.4899299,-123.2400111]
+  },
+  {
+    "description":"Abbotsford",
+    "image":"/images/abbotsford.jpg",
+    "coordinates": [49.0903045,-122.4774324]
+  },
+  {
+    "description":"Adam's Lake",
+    "image":"/images/adams-lake.jpg",
+    "coordinates": [51.1768431,-119.5773976]
+  },
+  {
+    "description":"Agate Beach",
+    "image":"/images/agate-beach.jpg",
+    "coordinates": [54.073650072683286, -131.80321560780934]
+  },
+  {
+    "description":"University of Calgary",
+    "image":"/images/baja-calgary.jpg",
+    "coordinates": [51.07781993017717, -114.14026583266372]
+  },
+  {
+    "description":"Peoria, Illinois",
+    "image":"/images/baja-peoria.jpg",
+    "coordinates": [40.74250484171946, -89.48123789891459]
+  },
+  {
+    "description":"Barrier Lake",
+    "image":"/images/barrier-lake.jpg",
+    "coordinates": [51.029310417921316, -115.0651766818313]
+  },
+  {
+    "description":"Lake Louise",
+    "image":"/images/big-beehive.jpg",
+    "coordinates": [51.414833468170954, -116.22753369395257]
+  },
+  {
+    "description":"Calgary",
+    "image":"/images/calgary-vball.jpg",
+    "coordinates": [51.0469105391624, -114.09196308112573]
+  },
+  {
+    "description":"Choi Hung Estate",
+    "image":"/images/choi_hung_estate.jpg",
+    "coordinates": [22.3358246453904, 114.2066457793472]
+  },
+  {
+    "description":"Athabasca Glacier, Columbia Ice Fields",
+    "image":"/images/columbia-icefields.jpg",
+    "coordinates": [52.2187801741804, -117.23102110756595]
+  },
+  {
+    "description":"East End of Rundle (looking east)",
+    "image":"/images/EEOR.jpg",
+    "coordinates": [51.07565424028111, -115.42083463198449]
+  },
+  {
+    "description":"East End of Rundle (looking west)",
+    "image":"/images/EEOR-halfway.jpg",
+    "coordinates": [51.095273176499525, -115.4270187408517]
+  },
+  {
+    "description":"Gray Bay",
+    "image":"/images/gray-bay-sunrise.jpg",
+    "coordinates": [53.11432783907011, -131.69585967721207]
+  },
+  {
+    "description":"Ha Long Bay",
+    "image":"/images/ha-long-bay.jpg",
+    "coordinates": [20.939970272192227, 107.17984737372636]
+  },
+  {
+    "description":"Lok Wah South",
+    "image":"/images/hk-circle-tunnel.jpg",
+    "coordinates": [22.3206190901661, 114.22108505715047]
+  },
+  {
+    "description":"Downtown Houston",
+    "image":"/images/houston-mural.jpg",
+    "coordinates": [29.76213184624626, -95.36116872150896]
+  },
+  {
+    "description":"Houston Skyline",
+    "image":"/images/houston-skyline.jpg",
+    "coordinates": [29.76217371322298, -95.39736405346622]
+  },
+  {
+    "description":"Larch Valley",
+    "image":"/images/Larch.jpg",
+    "coordinates": [51.33122963103392, -116.21739471423466]
+  },
+  {
+    "description":"Moose Mountain ",
+    "image":"/images/moose-mountain.jpg",
+    "coordinates": [50.86914378758274, -114.73465442400246]
+  },
+  {
+    "description":"Moraine Lake",
+    "image":"/images/moraine-lake.jpg",
+    "coordinates": [51.32285289362664, -116.18640289060612]
+  },
+  {
+    "description":"Moraine Lake Road",
+    "image":"/images/moraine-lake-bike.jpg",
+    "coordinates": [51.36181324977718, -116.15313560526364]
+  },
+  {
+    "description":"Valley of Fire",
+    "image":"/images/nevada.jpg",
+    "coordinates": [36.199762582343396, -115.43116602743699]
+  },
+  {
+    "description":"New Glasgow",
+    "image":"/images/new-glasgow.jpg",
+    "coordinates": [45.686424963994234, -62.29414554129724]
+  },
+  {
+    "description":"Ninh Bình",
+    "image":"/images/ninh-binh.jpg",
+    "coordinates": [20.303138579719736, 105.62175389442413]
+  },
+  {
+    "description":"Peggy's Cove",
+    "image":"/images/peggys-cove.jpg",
+    "coordinates": [44.49207087130688, -63.91791679068925]
+  },
+  {
+    "description":"Peyto Lake",
+    "image":"/images/peyto-lake.jpg",
+    "coordinates": [51.72630711480711, -116.52271646686759]
+  },
+  {
+    "description":"Phuket",
+    "image":"/images/phuket.jpg",
+    "coordinates": [7.844456122608091, 98.29620862399817]
+  },
+  {
+    "description":"Rawson Lake",
+    "image":"/images/rawson-lake.jpg",
+    "coordinates": [50.59476316100535, -115.14827248129481]
+  },
+  {
+    "description":"Rennel Sound Sunset",
+    "image":"/images/rennel-sound-sunset.jpg",
+    "coordinates": [53.34239774063586, -132.4259374811954]
+  },
+  {
+    "description":"Rennel Sound",
+    "image":"/images/rennel-sound-boat.jpg",
+    "coordinates": [53.329780087006995, -132.413856551669]
+  },
+  {
+    "description":"Rochester",
+    "image":"/images/rochester-baja.png",
+    "coordinates": [43.0802914791133, -77.18939378769477]
+  },
+  {
+    "description":"Upper Kananasis Lake (from Sarrail Ridge)",
+    "image":"/images/Sarrail3.jpg",
+    "coordinates": [50.596062839680805, -115.16372978442246]
+  },
+  {
+    "description":"Sarrail Ridge",
+    "image":"/images/sarrail-ridge.jpg",
+    "coordinates": [50.597743856628945, -115.15477403715508]
+  },
+  {
+    "description":"Sentinel Pass",
+    "image":"/images/sentinel-pass.jpg",
+    "coordinates": [51.34077991608583, -116.22135579469838]
+  },
+  {
+    "description":"Tow Hill",
+    "image":"/images/tow-hill.jpg",
+    "coordinates": [54.07871502926944, -131.79566037013126]
+  },
+  {
+    "description":"Spanish Banks",
+    "image":"/images/vancouver-sunset.jpg",
+    "coordinates": [49.277280892660386, -123.21898834477264]
+  },
+  {
+    "description":"Victoria Peak",
+    "image":"/images/victoria-peak.jpg",
+    "coordinates": [22.2765578009429, 114.145403293214]
+  }
+]
