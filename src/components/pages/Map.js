@@ -7,7 +7,7 @@ import L from 'leaflet'
 import icon from 'leaflet/dist/images/marker-icon.png'
 import iconShadow from 'leaflet/dist/images/marker-shadow.png'
 import travelData from '../../data/travel-data.json'
-import { Button } from '../Button'
+import {Link} from 'react-router-dom'
 
 let DefaultIcon = L.icon({
   iconUrl: icon,
@@ -28,7 +28,7 @@ function Map () {
       
       </div>
       <div className='text-wrapper'>
-      <a href="https://zachfrena.github.io/personal-website/" class="btn home"> <i class="fas fa-home"></i>&nbsp;Home</a>
+      <Link to="/" class="btn home"> <i class="fas fa-home"></i>&nbsp;Home</Link>
         <h1>Where I've Been:</h1>
         <p>
           I created this page to share{' '}

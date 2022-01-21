@@ -12,7 +12,6 @@ import NavBar from './components/NavBar'
 function App () {
   return (
     <BrowserRouter basename={process.env.PUBLIC_URL}>
-      {/* <NavBar /> */}
       <Routes>
         <Route exact path='/' element={<Home />}/>
         <Route exact path='/services' element={<Services />}/>

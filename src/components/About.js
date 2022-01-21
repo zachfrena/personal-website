@@ -1,5 +1,6 @@
 import React from 'react'
 import './About.css'
+import {Link} from 'react-router-dom'
 
 function About () {
   return (
@@ -51,9 +52,9 @@ function About () {
       </div>
       <div className='where-ive-been-button'>
         <i class='fas fa-map-marker-alt'>&nbsp;Currently based in Calgary, Alberta.&nbsp;&nbsp;</i>
-        <a href='https://zachfrena.github.io/personal-website/where-ive-been'>
+        <Link to='/where-ive-been'>
           [Click here to see where I've been before]
-        </a>
+        </Link>
       </div>
     </div>
   )
