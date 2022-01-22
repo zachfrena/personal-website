@@ -4,9 +4,22 @@ import './TimeLine.css'
 function TimeLine () {
   return (
     <div className='background'>
+      <div className='time-line-header'>Timeline</div>
       <div className='timeline-section'>
-        <div className='time-line-header'>Timeline</div>
         <ul class='timeline'>
+        <li class='timeline-event'>
+            <label class='timeline-event-icon'></label>
+            <div class='timeline-event-copy'>
+              <p class='timeline-event-thumbnail'>Dec 2021 - Present</p>
+              <h3>Software Developer (Capstone/Internship)</h3>
+              <h4>IBM</h4>
+              <ul className='list'>
+                <li>
+                  Creating a web-based monitoring system for production machine learning models. 
+                </li>
+              </ul>
+            </div>
+          </li>
           <li class='timeline-event'>
             <label class='timeline-event-icon'></label>
             <div class='timeline-event-copy'>
@@ -47,9 +60,9 @@ function TimeLine () {
                   digital products.
                 </li>
                 <li>
-                  Established training material for newly incorporated SaaS
-                  product, hosting 1000+ demos which lead to adoption from 0 to
-                  1500+ internal employees.
+                  Established training process and documentation for newly 
+                  incorporated SaaS product, hosting 500+ demos which resulted in very large 
+                  internal employee adoption (from 0 to 1500+).
                 </li>
                 <li>
                   Created automated user-signup application (Selenium with
